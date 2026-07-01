@@ -1,0 +1,76 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 995 >>
+stream
+BT
+/F1 11 Tf
+72 760 Td
+(Research report) Tj
+0 -14 Td
+(================) Tj
+0 -14 Td
+(Person: Ada Lovelace) Tj
+0 -14 Td
+(Place: London) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Overview) Tj
+0 -14 Td
+(--------) Tj
+0 -14 Td
+(Research summary for Ada Lovelace in London: 2 public-source clusters were assembled for review. Key sources include Person search, Place search. This build adds automatic public-source gathering, AI-assisted summarization, project saving, report generation, and team collaboration support.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Sources) Tj
+0 -14 Td
+(-------) Tj
+0 -14 Td
+(- Person search: https://example.com/person) Tj
+0 -14 Td
+(- Place search: https://example.com/place) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Build focus) Tj
+0 -14 Td
+(-----------) Tj
+0 -14 Td
+(- Automatically gather public information from multiple sources) Tj
+0 -14 Td
+(- Summarize findings with AI) Tj
+0 -14 Td
+(- Save research projects) Tj
+0 -14 Td
+(- Generate PDFs or reports) Tj
+0 -14 Td
+(- Add team collaboration features) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001287 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1357
+%%EOF
